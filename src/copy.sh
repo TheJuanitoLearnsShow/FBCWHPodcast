@@ -1,0 +1,1 @@
+cp ./podcasts/* /dist/
