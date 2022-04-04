@@ -9,10 +9,24 @@
       <itunes:name>Faith Baptist Church of Winter Haven</itunes:name>
       <itunes:email>jptarqu@gmail.com</itunes:email>
     </itunes:owner>
-    <itunes:image href="https://churchpodcasts.juanitolearns.com/podcast/assets/logo.png" />
+    <itunes:image href="https://churchpodcasts.juanitolearns.com/podcast/assets/logo.PNG" />
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Religion &amp; Spirituality" />
     <itunes:type>episodic</itunes:type>
+    <item>
+      <guid isPermalink="false">2022-04-03-morning</guid>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>4</itunes:episode>
+      <enclosure url="https://objectstorage.us-ashburn-1.oraclecloud.com/p/44k0LXGNmgD40Qfd8kiJaNQQpYz1VvdGCXN5CGTm62roMSKcAR4kYzOn-vvGCUj6/n/idjjtwzuv8so/b/fbcwh-podcasts/o/Apr%2B3%2C%2B2022%2B-%2BWhat%2BIs%2Bthe%2BTrinity-nIxYOx5KD4U.mp3" type="audio/mpeg" length="22264619" />
+      <pubDate>Sun, 03 Apr 2022 01:00:00 GMT</pubDate>
+      <title>What Is the Trinity?</title>
+      <description><![CDATA[What Is the Trinity?]]></description>
+      <itunes:duration>00:24:05</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://churchpodcasts.juanitolearns.com/podcast/assets/logo.png" />
+      <itunes:keywords>Trinity</itunes:keywords>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
         <guid isPermalink="false">2022-03-27-morning</guid>
         <itunes:season>1</itunes:season>
