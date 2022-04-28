@@ -3,7 +3,7 @@
   <channel>
     <title>Faith Baptist Church of Winter Haven - Pilot Test Podcast</title>
     <link>https://faithbaptistwh.org/</link>
-    <description><![CDATA[Faith Baptist Church of Winter Haven Sermons (Pilot Test Feed)]]></description>
+    <description><![CDATA[Faith Baptist Church of Winter Haven Sermons (Pilot Test Feed). As of 2022-04-28 0339pm]]></description>
     <itunes:author>Faith Baptist Church of Winter Haven</itunes:author>
     <itunes:owner>
       <itunes:name>Faith Baptist Church of Winter Haven</itunes:name>
@@ -17,14 +17,14 @@
       <guid isPermalink="false">2022-04-24-morning</guid>
       <itunes:season>1</itunes:season>
       <itunes:episode>5</itunes:episode>
-      <enclosure url="https://objectstorage.us-ashburn-1.oraclecloud.com/p/44k0LXGNmgD40Qfd8kiJaNQQpYz1VvdGCXN5CGTm62roMSKcAR4kYzOn-vvGCUj6/n/idjjtwzuv8so/b/fbcwh-podcasts/o/Apr+10,+2022+-+Missions+-+Colin+Ovenell,+Faith+Baptist+Mission+(FBM)-Qo_xdJc6L9E%2Emp3" type="audio/mpeg" length="41085839"></enclosure>
+      <enclosure url="https://objectstorage.us-ashburn-1.oraclecloud.com/p/44k0LXGNmgD40Qfd8kiJaNQQpYz1VvdGCXN5CGTm62roMSKcAR4kYzOn-vvGCUj6/n/idjjtwzuv8so/b/fbcwh-podcasts/o/Apr+10,+2022+-+Missions+-+Colin+Ovenell,+Faith+Baptist+Mission+(FBM)-Qo_xdJc6L9E%2Emp3" type="audio/mpeg" length="41085839" />
       <pubDate>Sun, 24 Apr 2022 04:00:00 GMT</pubDate>
       <title>Missions</title>
       <description><![CDATA[Missions - Colin Ovenell, Faith Baptist Mission (FBM)]]></description>
       <itunes:duration>00:52:05</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:image href="https://churchpodcasts.juanitolearns.com/podcast/assets/logo.png" />
-      <itunes:keywords>Trinity</itunes:keywords>
+      <itunes:keywords>Missions</itunes:keywords>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
     <item>
