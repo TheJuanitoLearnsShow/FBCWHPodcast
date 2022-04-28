@@ -27,7 +27,7 @@
       <itunes:keywords>Missions</itunes:keywords>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
-    <item>
+<!--     <item>
       <guid isPermalink="false">2022-04-03-morning</guid>
       <itunes:season>1</itunes:season>
       <itunes:episode>4</itunes:episode>
@@ -40,7 +40,7 @@
       <itunes:image href="https://churchpodcasts.juanitolearns.com/podcast/assets/logo.png" />
       <itunes:keywords>Trinity</itunes:keywords>
       <itunes:episodeType>full</itunes:episodeType>
-    </item>
+    </item> -->
     <item>
         <guid isPermalink="false">2022-03-27-morning</guid>
         <itunes:season>1</itunes:season>
