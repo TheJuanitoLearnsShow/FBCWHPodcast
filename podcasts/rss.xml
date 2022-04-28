@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="https://search.yahoo.com/mrss/" xmlns:dcterms="https://purl.org/dc/terms/" xmlns:spotify="https://www.spotify.com/ns/rss" xmlns:psc="https://podlove.org/simple-chapters/">
   <channel>
-    <title>Faith Baptist Church of Winter Haven - Test Podcast</title>
+    <title>Faith Baptist Church of Winter Haven - Pilot Test Podcast</title>
     <link>https://faithbaptistwh.org/</link>
-    <description><![CDATA[Faith Baptist Church of Winter Haven Sermons (Pilot Feed)]]></description>
+    <description><![CDATA[Faith Baptist Church of Winter Haven Sermons (Pilot Test Feed)]]></description>
     <itunes:author>Faith Baptist Church of Winter Haven</itunes:author>
     <itunes:owner>
       <itunes:name>Faith Baptist Church of Winter Haven</itunes:name>
