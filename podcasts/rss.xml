@@ -13,6 +13,19 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Religion &amp; Spirituality" />
     <itunes:type>episodic</itunes:type>
+    
+    <item>
+      <guid isPermalink="false">6</guid>
+      <enclosure url="https://objectstorage.us-ashburn-1.oraclecloud.com/p/44k0LXGNmgD40Qfd8kiJaNQQpYz1VvdGCXN5CGTm62roMSKcAR4kYzOn-vvGCUj6/n/idjjtwzuv8so/b/fbcwh-podcasts/o/2022-04-10-morning.mp3" type="audio/mpeg" length="41085839"></enclosure>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>6</itunes:episode>
+      <pubDate>Fri, 16 Apr 2022 04:00:00 GMT</pubDate>
+      <title>Missions - part 2</title>
+      <description>Missions part 2 - Colin Ovenell, Faith Baptist Mission (FBM)</description>
+      <itunes:duration>00:52:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <guid isPermalink="false">2022-04-24-morning</guid>
       <itunes:season>1</itunes:season>
