@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1653270783,
+	"version": 1655428963,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -16,6 +16,8 @@
 		"images/turnoffbtn.png",
 		"images/turnonbtn.png",
 		"images/tiledbackground3.png",
+		"images/penguin-sheet0.png",
+		"images/balloonexplosion.png",
 		"media/pop1.m4a",
 		"media/pop1.ogg",
 		"media/bach - usafb_air.m4a",
