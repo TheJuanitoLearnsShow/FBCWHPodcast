@@ -15,7 +15,163 @@
     <description>Sermons from Faith Baptist Church of Winter Haven.</description>
     <itunes:author>Faith Baptist Church of Winter Haven</itunes:author>
     <itunes:explicit>false</itunes:explicit>
-    <itunes:type>episodic</itunes:type>  
+    <itunes:type>episodic</itunes:type> 
+    <item>
+      <guid isPermalink="false">4070</guid>
+      <enclosure url="https://idjjtwzuv8so.objectstorage.us-ashburn-1.oci.customer-oci.com/n/idjjtwzuv8so/b/fbcwh-podcasts/o/2025-02-19-prayer.mp3" type="audio/mpeg" length="20482304"/>
+      <itunes:season>2</itunes:season>
+      <itunes:episode>13</itunes:episode>
+      <pubDate>Thu, 20 Feb 2025 13:00:00 EST</pubDate>
+      <title>That You May Know - 1 John 2:15-17</title>
+      <description>That You May Know - 1 John 2:15-17</description>
+      <itunes:duration>00:35:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <guid isPermalink="false">4069</guid>
+      <enclosure url="https://idjjtwzuv8so.objectstorage.us-ashburn-1.oci.customer-oci.com/n/idjjtwzuv8so/b/fbcwh-podcasts/o/2025-02-16-morning.mp3" type="audio/mpeg" length="72230009"/>
+      <itunes:season>2</itunes:season>
+      <itunes:episode>12</itunes:episode>
+      <pubDate>Sun, 16 Feb 2025 13:00:00 EST</pubDate>
+      <title>Temptations &amp; Temples - 1 Corinthians 6:12-20</title>
+      <description>Temptations &amp; Temples - 1 Corinthians 6:12-20</description>
+      <itunes:duration>00:42:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <guid isPermalink="false">4068</guid>
+      <enclosure url="https://idjjtwzuv8so.objectstorage.us-ashburn-1.oci.customer-oci.com/n/idjjtwzuv8so/b/fbcwh-podcasts/o/2025-02-12-prayer.mp3" type="audio/mpeg" length="16338923"/>
+      <itunes:season>2</itunes:season>
+      <itunes:episode>11</itunes:episode>
+      <pubDate>Wed, 13 Feb 2025 13:00:00 EST</pubDate>
+      <title>That You May Know - 1 John 2:12-14</title>
+      <description>That You May Know - 1 John 2:12-14</description>
+      <itunes:duration>00:31:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <guid isPermalink="false">4067</guid>
+      <enclosure url="https://idjjtwzuv8so.objectstorage.us-ashburn-1.oci.customer-oci.com/n/idjjtwzuv8so/b/fbcwh-podcasts/o/2025-02-09-morning.mp3" type="audio/mpeg" length="44779124"/>
+      <itunes:season>2</itunes:season>
+      <itunes:episode>10</itunes:episode>
+      <pubDate>Wed, 05 Feb 2025 13:00:00 EST</pubDate>
+      <title>I&apos;d Rather Lose - 1 Corinthians 6:1-11</title>
+      <description>I&apos;d Rather Lose - 1 Corinthians 6:1-11</description>
+      <itunes:duration>00:48:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <guid isPermalink="false">4066</guid>
+      <enclosure url="https://idjjtwzuv8so.objectstorage.us-ashburn-1.oci.customer-oci.com/n/idjjtwzuv8so/b/fbcwh-podcasts/o/2025-02-05-prayer.mp3" type="audio/mpeg" length="24296411"/>
+      <itunes:season>2</itunes:season>
+      <itunes:episode>9</itunes:episode>
+      <pubDate>Wed, 05 Feb 2025 13:00:00 EST</pubDate>
+      <title>That You May Know - 1 John 2:7-11</title>
+      <description>That You May Know - 1 John 2:7-11</description>
+      <itunes:duration>00:47:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <guid isPermalink="false">4065</guid>
+      <enclosure url="https://idjjtwzuv8so.objectstorage.us-ashburn-1.oci.customer-oci.com/n/idjjtwzuv8so/b/fbcwh-podcasts/o/2025-02-02-morning.mp3" type="audio/mpeg" length="56494642"/>
+      <itunes:season>2</itunes:season>
+      <itunes:episode>8</itunes:episode>
+      <pubDate>Sun, 02 Feb 2025 13:00:00 EST</pubDate>
+      <title>Guarding God&apos;s Testimony - 1 Corinthians 5:1-13</title>
+      <description>Guarding God&apos;s Testimony - 1 Corinthians 5:1-13</description>
+      <itunes:duration>00:47:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <guid isPermalink="false">4064</guid>
+      <enclosure url="https://idjjtwzuv8so.objectstorage.us-ashburn-1.oci.customer-oci.com/n/idjjtwzuv8so/b/fbcwh-podcasts/o/2025-01-27-morning.mp3" type="audio/mpeg" length="39719382"/>
+      <itunes:season>2</itunes:season>
+      <itunes:episode>7</itunes:episode>
+      <pubDate>Sun, 26 Jan 2025 13:00:00 EST</pubDate>
+      <title>The Role of Spiritual Fathers &amp; Mothers - 1 Corinthians 4:14-21</title>
+      <description>The Role of Spiritual Fathers &amp; Mothers - 1 Corinthians 4:14-21</description>
+      <itunes:duration>00:44:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <guid isPermalink="false">4063</guid>
+      <enclosure url="https://idjjtwzuv8so.objectstorage.us-ashburn-1.oci.customer-oci.com/n/idjjtwzuv8so/b/fbcwh-podcasts/o/2025-01-22-prayer.mp3" type="audio/mpeg" length="17970800"/>
+      <itunes:season>2</itunes:season>
+      <itunes:episode>6</itunes:episode>
+      <pubDate>Thu, 23 Jan 2025 13:00:00 EST</pubDate>
+      <title>That You May Know - 1 John 2:3-6</title>
+      <description>That You May Know - 1 John 2:3-6</description>
+      <itunes:duration>00:32:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <guid isPermalink="false">4062</guid>
+      <enclosure url="https://idjjtwzuv8so.objectstorage.us-ashburn-1.oci.customer-oci.com/n/idjjtwzuv8so/b/fbcwh-podcasts/o/2025-01-19-morning.mp3" type="audio/mpeg" length="36741857"/>
+      <itunes:season>2</itunes:season>
+      <itunes:episode>5</itunes:episode>
+      <pubDate>Sun, 19 Jan 2025 13:00:00 EST</pubDate>
+      <title>What Do You Have That You Did Not Receive? - 1 Corinthians 4:6-13</title>
+      <description>What Do You Have That You Did Not Receive? - 1 Corinthians 4:6-13</description>
+      <itunes:duration>00:43:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <guid isPermalink="false">4061</guid>
+      <enclosure url="https://idjjtwzuv8so.objectstorage.us-ashburn-1.oci.customer-oci.com/n/idjjtwzuv8so/b/fbcwh-podcasts/o/2025-01-15-prayer.mp3" type="audio/mpeg" length="20265776"/>
+      <itunes:season>2</itunes:season>
+      <itunes:episode>4</itunes:episode>
+      <pubDate>Thu, 16 Jan 2025 13:00:00 EST</pubDate>
+      <title>That You May Know - 1 John 2:1-2</title>
+      <description>That You May Know - 1 John 2:1-2</description>
+      <itunes:duration>00:37:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>   
+    <item>
+      <guid isPermalink="false">4060</guid>
+      <enclosure url="https://idjjtwzuv8so.objectstorage.us-ashburn-1.oci.customer-oci.com/n/idjjtwzuv8so/b/fbcwh-podcasts/o/2025-01-12-morning.mp3" type="audio/mpeg" length="40250121"/>
+      <itunes:season>2</itunes:season>
+      <itunes:episode>3</itunes:episode>
+      <pubDate>Sun, 12 Jan 2025 13:00:00 EST</pubDate>
+      <title>Judging Faithful Stewards - 1 Corinthians 4:1-5</title>
+      <description>Judging Faithful Stewards - 1 Corinthians 4:1-5</description>
+      <itunes:duration>00:46:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>   
+    <item>
+      <guid isPermalink="false">4059</guid>
+      <enclosure url="https://idjjtwzuv8so.objectstorage.us-ashburn-1.oci.customer-oci.com/n/idjjtwzuv8so/b/fbcwh-podcasts/o/2025-01-08-prayer.mp3" type="audio/mpeg" length="22908803"/>
+      <itunes:season>2</itunes:season>
+      <itunes:episode>2</itunes:episode>
+      <pubDate>Thu, 09 Jan 2025 13:00:00 EST</pubDate>
+      <title>That You May Know - 1 John 1:1-10 Review</title>
+      <description>That You May Know - 1 John 1:1-10 Review</description>
+      <itunes:duration>00:36:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>   
+    <item>
+      <guid isPermalink="false">4058</guid>
+      <enclosure url="https://idjjtwzuv8so.objectstorage.us-ashburn-1.oci.customer-oci.com/n/idjjtwzuv8so/b/fbcwh-podcasts/o/2025-01-05-morning.mp3" type="audio/mpeg" length="36199471"/>
+      <itunes:season>2</itunes:season>
+      <itunes:episode>1</itunes:episode>
+      <pubDate>Sun, 05 Jan 2025 13:00:00 EST</pubDate>
+      <title>How to Read Your Bible - 2 Peter 3:14-18</title>
+      <description>How to Read Your Bible - 2 Peter 3:14-18</description>
+      <itunes:duration>00:45:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <guid isPermalink="false">4057</guid>
       <enclosure url="https://idjjtwzuv8so.objectstorage.us-ashburn-1.oci.customer-oci.com/n/idjjtwzuv8so/b/fbcwh-podcasts/o/2024-12-29-morning.mp3" type="audio/mpeg" length="52470829"/>
